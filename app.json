@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "reduxNative",
+    "name": "Redux Native",
     "slug": "reduxNative",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
